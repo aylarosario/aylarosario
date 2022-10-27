@@ -10,7 +10,6 @@
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/232211d73f41fb28bc4dac4edcce3a75.gif" width="110" height="110" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 </div>
 
