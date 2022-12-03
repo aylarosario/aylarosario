@@ -6,7 +6,8 @@
 <p align="left">
    <a href="https://github.com/aylarosario">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=aylarosario&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="43%" src="http://github-readme-streak-stats.herokuapp.com?user=aylarosario&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aylarosario&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="56%" src="https://activity-graph.herokuapp.com/graph?username=aylarosario&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aylarosario&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=aylarosario&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph"/></a>
+
 </p>
  </div>
  
