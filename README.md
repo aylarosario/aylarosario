@@ -16,7 +16,7 @@
  <div>
  <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cs,bootstrap,angular,java,dotnet&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cs,dotnet,bootstrap,angular&theme=light" />
   </a>
   </p>
  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/232211d73f41fb28bc4dac4edcce3a75.gif" width="110" height="110" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
